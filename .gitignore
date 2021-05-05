@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Nand2Tetris
+nand2tetris/tools/*
+
 # User-specific files
 *.rsuser
 *.suo
